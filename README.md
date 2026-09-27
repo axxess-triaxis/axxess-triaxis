@@ -34,3 +34,7 @@ Also benchmarking on [ARC-AGI](https://github.com/axxess-triaxis/arc-agi-3-bench
 ## Stack
 
 TypeScript · Python · Next.js · React · Supabase · AWS (Lambda, CDK, Bedrock) · Capacitor · Vercel
+
+## GitHub activity
+
+![GitHub metrics for axxess-triaxis](https://raw.githubusercontent.com/axxess-triaxis/axxess-triaxis/main/metrics.svg)

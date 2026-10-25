@@ -1,0 +1,31 @@
+# PORT4LLEO corrections for axxess-triaxis -- goes in axxess-triaxis/axxess-triaxis/portfolio.yml
+# Self-declared entries show as "self-declared" and count at half weight.
+# Already inferred from repo topics (do not repeat here): Omnidamus, RepoWatch,
+# GALL-e-LEO, CopperNick-Vision, Picketty.
+
+hackathons:
+  # Submitted, per Callismatic's README hackathon table (2026-09-14)
+  - name: Agents for Humans Hackathon
+    url: https://agentsforhumans.devpost.com/
+    repo: axxess-triaxis/callismatic
+  - name: Call-E Hackathon
+    repo: axxess-triaxis/callismatic
+
+  # CONFIRM SUBMITTED, then uncomment (README marks these pending):
+  # - name: AssemblyAI Voice Agent Hackathon (lablab.ai)
+  #   repo: axxess-triaxis/callismatic
+  # - name: "AMD Developer Hackathon: ACT III (lablab.ai)"
+  #   repo: axxess-triaxis/callismatic
+  # - name: Nebius x NVIDIA Global AI Hackathon
+  #   repo: axxess-triaxis/callismatic
+  # - name: "Build, Ship, Shape: Amazon Developer Hackathon (Alexa+)"
+  #   repo: axxess-triaxis/callismatic
+  # - name: SerpApi India Hackathon 2026
+  #   repo: axxess-triaxis/callismatic
+  # In progress (deadline 2026-11-12) -- uncomment after submitting:
+  # - name: PayPal AI Hackathon
+  #   url: https://paypalaihackathon.devpost.com/
+  #   repo: axxess-triaxis/port4lleo
+  # Need the exact event name/link before adding:
+  # - name: NESFIC (D-21/D-17)
+  #   repo: axxess-triaxis/geoint-x

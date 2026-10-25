@@ -1,5 +1,7 @@
 # Sudipta Koushik Sarmah
 
+[![PORT4LLEO Builder Score](https://port4leo-sigma.vercel.app/api/badge/axxess-triaxis)](https://port4leo-sigma.vercel.app/u/axxess-triaxis)
+
 Founder and Managing Director, **Triaxis Ventures Private Limited**.
 
 I build AI systems that organizations can govern: explainable, auditable, and with a human in the loop where it matters.

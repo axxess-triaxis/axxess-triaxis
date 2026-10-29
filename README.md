@@ -22,7 +22,7 @@ survey feedback ask for.
 | [**PORT4LLEO**](https://github.com/axxess-triaxis/port4lleo) | Governance, security checks, builder analysis and product improvements: a GitHub App that audits repos and scores how a builder ships. | Live at [port4leo-sigma.vercel.app](https://port4leo-sigma.vercel.app) |
 | [**Callismatic**](https://github.com/axxess-triaxis/callismatic) | Sales and outreach: triages inbound calls, voicemails and WhatsApp messages, researches leads, and places callbacks. | Live on AWS Lambda (us-east-1) |
 | [**Omnidamus**](https://github.com/axxess-triaxis/Omnidamus) | SMS, WhatsApp and email outreach and customer service, as one conversation across channels. | Deployed on AWS (ap-southeast-2); WhatsApp sending blocked on Meta's display-name review ([evidence](https://github.com/axxess-triaxis/Omnidamus/blob/master/docs/LIVE_VERIFICATION.md)) |
-| [**STILL**](https://github.com/axxess-triaxis/STILL) | Joins them into one stack: an Amazon EventBridge bus on which Callismatic leads and Omnidamus completed conversations become AXXESS tasks. | Deployed; STILL to AXXESS verified live 2026-10-29. Callismatic and Omnidamus publishing switched on 2026-10-29, end-to-end check pending |
+| [**STILL**](https://github.com/axxess-triaxis/STILL) | Joins them into one stack: an Amazon EventBridge bus on which Callismatic leads and Omnidamus completed conversations become AXXESS tasks. | Deployed; Callismatic leads and an Omnidamus conversation verified end to end into AXXESS tasks on 2026-10-29 |
 
 **The aim.** A roughly 80% automated startup, with me as the human in the loop: AXXESS builds,
 sells, serves customers, tests and does marketing outreach on itself, through these products.

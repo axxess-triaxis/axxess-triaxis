@@ -1,0 +1,34 @@
+name: Readme stats
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # daily, 06:30 IST, after the Metrics workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the generated profile/stats.svg
+
+jobs:
+  stats-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        # github-readme-stats-action v2.1.0, pinned to the tag's commit.
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }} # public data only
+          fail_on_error: true
+
+      - name: Commit card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg
+          git commit -m "Update readme stats card" || exit 0
+          git pull --rebase
+          git push

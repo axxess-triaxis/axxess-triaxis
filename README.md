@@ -1,5 +1,7 @@
 # Sudipta Koushik Sarmah
 
+**Top 5% global on CodersRank (4 Top 50 badges) · Top 15% in Python globally · Top 6.74% global on TechieRank (out of 73 million GitHub users)**
+
 <p>
   <a href="https://www.producthunt.com/products/axxess-triaxis?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-axxess-triaxis" target="_blank" rel="noopener noreferrer"><img alt="AXXESS TRIaxis - AI company brain for businesses premium AI prices out  | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1291289&amp;theme=light"></a>
   <a href="https://port4leo-sigma.vercel.app/u/axxess-triaxis"><img alt="PORT4LLEO Builder Score" src="https://port4leo-sigma.vercel.app/api/badge/axxess-triaxis"></a>

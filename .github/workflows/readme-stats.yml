@@ -14,6 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Check token (status and scopes only)
+        env:
+          TOKEN: ${{ secrets.README_STATS_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "README_STATS_TOKEN not set; public data only"; exit 0; fi
+          code=$(curl -s -o /dev/null -D headers.txt -w "%{http_code}" -H "Authorization: Bearer $TOKEN" https://api.github.com/user)
+          echo "GitHub /user status: $code"
+          grep -i -E "^x-oauth-scopes|^github-authentication-token-expiration" headers.txt || echo "No scope header (fine-grained token)"
+          rm -f headers.txt
+
       - name: Generate stats card
         # github-readme-stats-action v2.1.0, pinned to the tag's commit.
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21

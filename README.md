@@ -1,6 +1,4 @@
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ)](https://www.git-ranker.c
-
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ)](https://www.git-ranker.com/en/users/axxess-triaxis)
+<a href="https://www.git-ranker.com/en/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,047 points, Top 23.16%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C047%20pts%20%C2%B7%20Top%2023.16%25-2E9E78"></a>
 
 <p>
   <img alt="CodersRank: Top 5% global, 4 Top 50 badges" src="https://img.shields.io/badge/CodersRank-Top%205%25%20global%20%C2%B7%204%20Top%2050%20badges-8B1E2D">

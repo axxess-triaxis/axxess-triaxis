@@ -1,6 +1,5 @@
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ)](https://www.git-ranker.com/en/users/axxess-triaxis)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ)](https://www.git-ranker.c
 
-# Sudipta Koushik Sarm
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ)](https://www.git-ranker.com/en/users/axxess-triaxis)
 
 <p>

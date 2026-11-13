@@ -1,7 +1,7 @@
 <a href="https://www.git-ranker.com/en/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,047 points, Top 23.16%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C047%20pts%20%C2%B7%20Top%2023.16%25-2E9E78"></a>
 
 <p>
-  <img alt="CodersRank: Top 5% global, 4 Top 50 badges" src="https://img.shields.io/badge/CodersRank-Top%205%25%20global%20%C2%B7%204%20Top%2050%20badges-8B1E2D">
+  <img alt="CodersRank: Top 2%, Top 5 in India for PLpgSQL and Pytest" src="https://img.shields.io/badge/CodersRank-Top%202%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest-8B1E2D">
   <img alt="Python: Top 15% global" src="https://img.shields.io/badge/Python-Top%2015%25%20global-3776AB?logo=python&logoColor=white">
   <img alt="TechieRank: Top 6.74% global of 73 million GitHub users" src="https://img.shields.io/badge/TechieRank-Top%206.74%25%20global%20%C2%B7%2073M%20GitHub%20users-0F1117">
 </p>

@@ -1,8 +1,12 @@
 <a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,499 points, Top 22.22%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C499%20pts%20%C2%B7%20Top%2022.22%25-2E9E78"></a>
 
 <p>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank: Top 2%, Top 5 in India for PLpgSQL and Pytest" src="https://img.shields.io/badge/CodersRank-Top%202%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest-8B1E2D"></a>
-  <img alt="Python: Top 15% global" src="https://img.shields.io/badge/Python-Top%2015%25%20global-3776AB?logo=python&logoColor=white">
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank: Top 2%, Top 5 in India for PLpgSQL, Pytest and TSQL" src="https://img.shields.io/badge/CodersRank-Top%202%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest%2C%20TSQL-8B1E2D"></a>
+  <img alt="Python: Top 8% worldwide" src="https://img.shields.io/badge/Python-Top%208%25%20worldwide-3776AB?logo=python&logoColor=white">
+  <img alt="TSQL: Top 0.8% worldwide" src="https://img.shields.io/badge/TSQL-Top%200.8%25%20worldwide-CC2927">
+  <img alt="PLpgSQL: Top 2% worldwide" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-4169E1?logo=postgresql&logoColor=white">
+  <img alt="TypeScript: Top 4% worldwide" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-3178C6?logo=typescript&logoColor=white">
+  <img alt="Next.js: Top 4%" src="https://img.shields.io/badge/Next.js-Top%204%25-000000?logo=nextdotjs&logoColor=white">
   <img alt="TechieRank: Top 6.74% global of 73 million GitHub users" src="https://img.shields.io/badge/TechieRank-Top%206.74%25%20global%20%C2%B7%2073M%20GitHub%20users-0F1117">
 </p>
 

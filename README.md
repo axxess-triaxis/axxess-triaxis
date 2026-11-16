@@ -19,6 +19,15 @@
   <a href="https://port4leo-sigma.vercel.app/u/axxess-triaxis"><img alt="PORT4LLEO Builder Score" src="https://port4leo-sigma.vercel.app/api/badge/axxess-triaxis"></a>
 </p>
 
+<p>
+  <a href="https://gitscore.live/axxess-triaxis">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/axxess-triaxis?style=card&amp;theme=dark">
+      <img alt="GitScore for axxess-triaxis" src="https://gitscore.live/api/badge/axxess-triaxis?style=card">
+    </picture>
+  </a>
+</p>
+
 Founder and Managing Director, **Triaxis Ventures Private Limited**, co-founded with Ritashree Mahanta.
 
 I build AI systems that organizations can govern: explainable, auditable, and with a human in the loop where it matters.

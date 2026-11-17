@@ -1,4 +1,4 @@
-<a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,672 points, Top 21.41%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C672%20pts%20%C2%B7%20Top%2021.41%25-2E9E78"></a>
+<a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,842 points, Top 20.75%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C842%20pts%20%C2%B7%20Top%2020.75%25-2E9E78"></a>
 
 <p>
   <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank: Top 1%, Top 5 in India for PLpgSQL, Pytest and TSQL" src="https://img.shields.io/badge/CodersRank-Top%201%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest%2C%20TSQL-8B1E2D"></a>

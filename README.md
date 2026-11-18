@@ -3,7 +3,7 @@
 <p>
   <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank: Top 1%, Top 5 in India for PLpgSQL, Pytest and TSQL" src="https://img.shields.io/badge/CodersRank-Top%201%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest%2C%20TSQL-8B1E2D"></a>
   <img alt="Python: Top 6% worldwide" src="https://img.shields.io/badge/Python-Top%206%25%20worldwide-3776AB?logo=python&logoColor=white">
-  <img alt="TSQL: Top 0.7% worldwide" src="https://img.shields.io/badge/TSQL-Top%200.7%25%20worldwide-CC2927">
+  <img alt="TSQL: Top 0.6% worldwide" src="https://img.shields.io/badge/TSQL-Top%200.6%25%20worldwide-CC2927">
   <img alt="PLpgSQL: Top 2% worldwide" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-4169E1?logo=postgresql&logoColor=white">
   <img alt="TypeScript: Top 4% worldwide" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-3178C6?logo=typescript&logoColor=white">
   <img alt="Next.js: Top 4%" src="https://img.shields.io/badge/Next.js-Top%204%25-000000?logo=nextdotjs&logoColor=white">

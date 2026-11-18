@@ -1,4 +1,4 @@
-<a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,842 points, Top 20.75%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C842%20pts%20%C2%B7%20Top%2020.75%25-2E9E78"></a>
+<a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker tier and score for axxess-triaxis" src="https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ"></a>
 
 <p>
   <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis&query=%24.position&label=CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>

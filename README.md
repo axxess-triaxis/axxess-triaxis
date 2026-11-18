@@ -1,18 +1,18 @@
 <a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker tier and score for axxess-triaxis" src="https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ"></a>
 
 <p>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank: Top 1%, Top 5 in India for PLpgSQL, Pytest and TSQL" src="https://img.shields.io/badge/CodersRank-Top%201%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest%2C%20TSQL-8B1E2D"></a>
-  <img alt="Python: Top 6% worldwide" src="https://img.shields.io/badge/Python-Top%206%25%20worldwide-3776AB?logo=python&logoColor=white">
-  <img alt="TSQL: Top 0.6% worldwide" src="https://img.shields.io/badge/TSQL-Top%200.6%25%20worldwide-CC2927">
-  <img alt="PLpgSQL: Top 2% worldwide" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-4169E1?logo=postgresql&logoColor=white">
-  <img alt="TypeScript: Top 4% worldwide" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-3178C6?logo=typescript&logoColor=white">
-  <img alt="Next.js: Top 4%" src="https://img.shields.io/badge/Next.js-Top%204%25-000000?logo=nextdotjs&logoColor=white">
-  <img alt="Pytest: Top 5%" src="https://img.shields.io/badge/Pytest-Top%205%25-0A9EDC?logo=pytest&logoColor=white">
-  <img alt="TechieRank: Top 6.74% global of 73 million GitHub users" src="https://img.shields.io/badge/TechieRank-Top%206.74%25%20global%20%C2%B7%2073M%20GitHub%20users-0F1117">
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis&query=%24.position&label=CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTSQL&query=%24.world_wide_rank&label=TSQL%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL CodersRank India rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTSQL&query=%24.country_rank&label=TSQL%20India&prefix=%23&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPLpgSQL&query=%24.world_wide_rank&label=PLpgSQL%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL CodersRank India rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPLpgSQL&query=%24.country_rank&label=PLpgSQL%20India&prefix=%23&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Python CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPython&query=%24.world_wide_rank&label=Python%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTypeScript&query=%24.world_wide_rank&label=TypeScript%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
 </p>
 
 <p>
-  <img alt="GitHub stats for axxess-triaxis, with rank" src="./profile/stats.svg">
+  <!-- Live card from the public github-readme-stats instance. include_all_commits is left off: on 2026-11-18 it returned "Could not fetch total commits". Fallback if the instance is rate-limited or down: src="./profile/stats.svg", kept fresh by .github/workflows/readme-stats.yml (both left in place, unused for now). -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub stats for axxess-triaxis, with rank" src="https://github-readme-stats.vercel.app/api?username=axxess-triaxis&amp;show_icons=true&amp;hide_border=true"></a>
 </p>
 
 <p>
@@ -33,6 +33,9 @@ Founder and Managing Director, **Triaxis Ventures Private Limited**, co-founded 
 
 I build AI systems that organizations can govern: explainable, auditable, and with a human in the loop where it matters.
 
+> **Main repo: [axxess-triaxis/AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS)**, home of AXXESS TRIaxis, the AI workspace Triaxis Ventures sells.
+> Live at [landing.triaxisventures.com](https://landing.triaxisventures.com). Its README links every status claim to a file in the repo.
+
 ## One product to sell, four that run the company
 
 Triaxis Ventures sells **AXXESS TRIaxis**. Everything else I build runs the company itself.
@@ -40,9 +43,9 @@ Triaxis Ventures is Tenant 0, the dogfooded tenant, on every one of these apps, 
 That is where I do QA, audits, UX testing, walkthroughs, and the improvements that pilot and
 survey feedback ask for.
 
-| Product | What it does for Triaxis | State, checked 2026-10-29 |
+| Product | What it does for Triaxis | State, checked 2026-10-29 unless dated |
 |---|---|---|
-| [**AXXESS TRIaxis**](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | **The product we sell.** An AI operating platform for regulated organizations: AI orchestration, policy enforcement, workflows, connectors, human-in-the-loop review and audit evidence. Next.js, TypeScript, Supabase, Capacitor (web, iOS, Android). | Product: [investor.triaxisventures.com](https://investor.triaxisventures.com) (demo); [Live Beta](https://landing.triaxisventures.com) (sign-in), [AXXESS Lite](https://lite.triaxisventures.com) |
+| [**AXXESS TRIaxis**](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | **The product we sell.** An AI operating platform for regulated organizations: AI orchestration, policy enforcement, workflows, connectors, human-in-the-loop review and audit evidence. It also sources its own sales leads, with a person approving each one before it reaches the CRM. Next.js, TypeScript, Supabase, Capacitor (web, iOS, Android). | Checked 2026-11-18: [live app](https://landing.triaxisventures.com) (sign-in), [demo](https://investor.triaxisventures.com), [AXXESS Lite](https://lite.triaxisventures.com). Android on Google Play, production track ([closeout](https://github.com/axxess-triaxis/AXXESSTRIAXIS/blob/main/docs/readiness/ANDROID_BETA_0_9_PRODUCTION_RELEASE_CLOSEOUT_2026_08_30.md)). Lead sourcing: first production run 2026-11-18 ([closeout](https://github.com/axxess-triaxis/AXXESSTRIAXIS/blob/main/docs/readiness/LEAD_SOURCING_PROD_RUN1_CLOSEOUT_2026_11_18.md)); automatic schedules and discovery are still in open PRs |
 | [**PORT4LLEO**](https://github.com/axxess-triaxis/port4lleo) | Governance, security checks, builder analysis and product improvements: a GitHub App that audits repos and scores how a builder ships. | Live at [port4leo-sigma.vercel.app](https://port4leo-sigma.vercel.app) |
 | [**Callismatic**](https://github.com/axxess-triaxis/callismatic) | Sales and outreach: triages inbound calls, voicemails and WhatsApp messages, researches leads, and places callbacks. | Live on AWS Lambda (us-east-1) |
 | [**Omnidamus**](https://github.com/axxess-triaxis/Omnidamus) | SMS, WhatsApp and email outreach and customer service, as one conversation across channels. | Deployed on AWS (ap-southeast-2); WhatsApp sending blocked on Meta's display-name review ([evidence](https://github.com/axxess-triaxis/Omnidamus/blob/master/docs/LIVE_VERIFICATION.md)) |

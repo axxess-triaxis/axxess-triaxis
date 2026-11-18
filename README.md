@@ -11,7 +11,8 @@
 </p>
 
 <p>
-  <img alt="GitHub stats for axxess-triaxis, with rank" src="./profile/stats.svg">
+  <!-- Live card from the public github-readme-stats instance. include_all_commits is left off: on 2026-11-18 it returned "Could not fetch total commits". Fallback if the instance is rate-limited or down: src="./profile/stats.svg", kept fresh by .github/workflows/readme-stats.yml (both left in place, unused for now). -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub stats for axxess-triaxis, with rank" src="https://github-readme-stats.vercel.app/api?username=axxess-triaxis&amp;show_icons=true&amp;hide_border=true"></a>
 </p>
 
 <p>

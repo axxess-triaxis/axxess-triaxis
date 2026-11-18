@@ -33,6 +33,9 @@ Founder and Managing Director, **Triaxis Ventures Private Limited**, co-founded 
 
 I build AI systems that organizations can govern: explainable, auditable, and with a human in the loop where it matters.
 
+> **Main repo: [axxess-triaxis/AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS)**, home of AXXESS TRIaxis, the AI workspace Triaxis Ventures sells.
+> Live at [landing.triaxisventures.com](https://landing.triaxisventures.com). Its README links every status claim to a file in the repo.
+
 ## One product to sell, four that run the company
 
 Triaxis Ventures sells **AXXESS TRIaxis**. Everything else I build runs the company itself.
@@ -40,9 +43,9 @@ Triaxis Ventures is Tenant 0, the dogfooded tenant, on every one of these apps, 
 That is where I do QA, audits, UX testing, walkthroughs, and the improvements that pilot and
 survey feedback ask for.
 
-| Product | What it does for Triaxis | State, checked 2026-10-29 |
+| Product | What it does for Triaxis | State, checked 2026-10-29 unless dated |
 |---|---|---|
-| [**AXXESS TRIaxis**](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | **The product we sell.** An AI operating platform for regulated organizations: AI orchestration, policy enforcement, workflows, connectors, human-in-the-loop review and audit evidence. Next.js, TypeScript, Supabase, Capacitor (web, iOS, Android). | Product: [investor.triaxisventures.com](https://investor.triaxisventures.com) (demo); [Live Beta](https://landing.triaxisventures.com) (sign-in), [AXXESS Lite](https://lite.triaxisventures.com) |
+| [**AXXESS TRIaxis**](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | **The product we sell.** An AI operating platform for regulated organizations: AI orchestration, policy enforcement, workflows, connectors, human-in-the-loop review and audit evidence. It also sources its own sales leads, with a person approving each one before it reaches the CRM. Next.js, TypeScript, Supabase, Capacitor (web, iOS, Android). | Checked 2026-11-18: [live app](https://landing.triaxisventures.com) (sign-in), [demo](https://investor.triaxisventures.com), [AXXESS Lite](https://lite.triaxisventures.com). Android on Google Play, production track ([closeout](https://github.com/axxess-triaxis/AXXESSTRIAXIS/blob/main/docs/readiness/ANDROID_BETA_0_9_PRODUCTION_RELEASE_CLOSEOUT_2026_08_30.md)). Lead sourcing: first production run 2026-11-18 ([closeout](https://github.com/axxess-triaxis/AXXESSTRIAXIS/blob/main/docs/readiness/LEAD_SOURCING_PROD_RUN1_CLOSEOUT_2026_11_18.md)); automatic schedules and discovery are still in open PRs |
 | [**PORT4LLEO**](https://github.com/axxess-triaxis/port4lleo) | Governance, security checks, builder analysis and product improvements: a GitHub App that audits repos and scores how a builder ships. | Live at [port4leo-sigma.vercel.app](https://port4leo-sigma.vercel.app) |
 | [**Callismatic**](https://github.com/axxess-triaxis/callismatic) | Sales and outreach: triages inbound calls, voicemails and WhatsApp messages, researches leads, and places callbacks. | Live on AWS Lambda (us-east-1) |
 | [**Omnidamus**](https://github.com/axxess-triaxis/Omnidamus) | SMS, WhatsApp and email outreach and customer service, as one conversation across channels. | Deployed on AWS (ap-southeast-2); WhatsApp sending blocked on Meta's display-name review ([evidence](https://github.com/axxess-triaxis/Omnidamus/blob/master/docs/LIVE_VERIFICATION.md)) |

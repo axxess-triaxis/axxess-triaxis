@@ -1,14 +1,13 @@
 <a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker: Emerald, 6,842 points, Top 20.75%" src="https://img.shields.io/badge/Git%20Ranker-Emerald%20%C2%B7%206%2C842%20pts%20%C2%B7%20Top%2020.75%25-2E9E78"></a>
 
 <p>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank: Top 1%, Top 5 in India for PLpgSQL, Pytest and TSQL" src="https://img.shields.io/badge/CodersRank-Top%201%25%20%C2%B7%20Top%205%20India%3A%20PLpgSQL%2C%20Pytest%2C%20TSQL-8B1E2D"></a>
-  <img alt="Python: Top 6% worldwide" src="https://img.shields.io/badge/Python-Top%206%25%20worldwide-3776AB?logo=python&logoColor=white">
-  <img alt="TSQL: Top 0.7% worldwide" src="https://img.shields.io/badge/TSQL-Top%200.7%25%20worldwide-CC2927">
-  <img alt="PLpgSQL: Top 2% worldwide" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-4169E1?logo=postgresql&logoColor=white">
-  <img alt="TypeScript: Top 4% worldwide" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-3178C6?logo=typescript&logoColor=white">
-  <img alt="Next.js: Top 4%" src="https://img.shields.io/badge/Next.js-Top%204%25-000000?logo=nextdotjs&logoColor=white">
-  <img alt="Pytest: Top 5%" src="https://img.shields.io/badge/Pytest-Top%205%25-0A9EDC?logo=pytest&logoColor=white">
-  <img alt="TechieRank: Top 6.74% global of 73 million GitHub users" src="https://img.shields.io/badge/TechieRank-Top%206.74%25%20global%20%C2%B7%2073M%20GitHub%20users-0F1117">
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis&query=%24.position&label=CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTSQL&query=%24.world_wide_rank&label=TSQL%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL CodersRank India rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTSQL&query=%24.country_rank&label=TSQL%20India&prefix=%23&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPLpgSQL&query=%24.world_wide_rank&label=PLpgSQL%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL CodersRank India rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPLpgSQL&query=%24.country_rank&label=PLpgSQL%20India&prefix=%23&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Python CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPython&query=%24.world_wide_rank&label=Python%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTypeScript&query=%24.world_wide_rank&label=TypeScript%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
 </p>
 
 <p>

@@ -3,7 +3,7 @@
 <p>
   <!-- CodersRank values copied from https://profile.codersrank.io/user/axxess-triaxis/ on 2026-11-20. Static badges: the live
        api.codersrank.io/v2 badges returned 404 or timed out and showed "inaccessible". Update by hand. -->
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank rank: top 1%, score 618.4 (2026-11-20)" src="https://img.shields.io/badge/CodersRank-Top%201%25%20%28score%20618.4%29-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank rank: top 2%, score 618.4 (2026-11-20)" src="https://img.shields.io/badge/CodersRank-Top%202%25%20%28score%20618.4%29-8B1E2D"></a>
   <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL on CodersRank: top 0.6% worldwide (2026-11-20)" src="https://img.shields.io/badge/TSQL-Top%200.6%25%20worldwide-8B1E2D"></a>
   <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL on CodersRank: top 2% worldwide (2026-11-20)" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-8B1E2D"></a>
   <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript on CodersRank: top 4% worldwide (2026-11-20)" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-8B1E2D"></a>

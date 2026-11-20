@@ -1,13 +1,14 @@
 <a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker tier and score for axxess-triaxis" src="https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ"></a>
 
 <p>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis&query=%24.position&label=CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTSQL&query=%24.world_wide_rank&label=TSQL%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL CodersRank India rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTSQL&query=%24.country_rank&label=TSQL%20India&prefix=%23&color=8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPLpgSQL&query=%24.world_wide_rank&label=PLpgSQL%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL CodersRank India rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPLpgSQL&query=%24.country_rank&label=PLpgSQL%20India&prefix=%23&color=8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Python CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FPython&query=%24.world_wide_rank&label=Python%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript CodersRank worldwide rank, live" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.codersrank.io%2Fv2%2Fusers%2Faxxess-triaxis%2Flanguages%2FTypeScript&query=%24.world_wide_rank&label=TypeScript%20CodersRank&prefix=%23&suffix=%20worldwide&color=8B1E2D"></a>
+  <!-- CodersRank values copied from https://profile.codersrank.io/user/axxess-triaxis/ on 2026-11-20. Static badges: the live
+       api.codersrank.io/v2 badges returned 404 or timed out and showed "inaccessible". Update by hand. -->
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank rank: top 1%, score 618.4 (2026-11-20)" src="https://img.shields.io/badge/CodersRank-Top%201%25%20%28score%20618.4%29-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL on CodersRank: top 0.6% worldwide (2026-11-20)" src="https://img.shields.io/badge/TSQL-Top%200.6%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL on CodersRank: top 2% worldwide (2026-11-20)" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript on CodersRank: top 4% worldwide (2026-11-20)" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Next.js on CodersRank: top 4% (2026-11-20)" src="https://img.shields.io/badge/Next.js-Top%204%25-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Python on CodersRank: top 6% worldwide (2026-11-20)" src="https://img.shields.io/badge/Python-Top%206%25%20worldwide-8B1E2D"></a>
 </p>
 
 <p>

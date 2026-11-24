@@ -1,14 +1,14 @@
 <a href="https://www.git-ranker.com/users/axxess-triaxis"><img alt="Git Ranker tier and score for axxess-triaxis" src="https://www.git-ranker.com/api/v1/badges/U_kgDOEdJPfQ"></a>
 
 <p>
-  <!-- CodersRank values copied from https://profile.codersrank.io/user/axxess-triaxis/ on 2026-11-20. Static badges: the live
+  <!-- CodersRank values copied from https://profile.codersrank.io/user/axxess-triaxis/ on 2026-11-24. Static badges: the live
        api.codersrank.io/v2 badges returned 404 or timed out and showed "inaccessible". Update by hand. -->
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank rank: top 2%, score 618.4 (2026-11-20)" src="https://img.shields.io/badge/CodersRank-Top%202%25%20%28score%20618.4%29-8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL on CodersRank: top 0.6% worldwide (2026-11-20)" src="https://img.shields.io/badge/TSQL-Top%200.6%25%20worldwide-8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL on CodersRank: top 2% worldwide (2026-11-20)" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript on CodersRank: top 4% worldwide (2026-11-20)" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Next.js on CodersRank: top 4% (2026-11-20)" src="https://img.shields.io/badge/Next.js-Top%204%25-8B1E2D"></a>
-  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Python on CodersRank: top 6% worldwide (2026-11-20)" src="https://img.shields.io/badge/Python-Top%206%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="CodersRank rank: top 2%, score 623.7 (2026-11-24)" src="https://img.shields.io/badge/CodersRank-Top%202%25%20%28score%20623.7%29-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TSQL on CodersRank: top 0.6% worldwide (2026-11-24)" src="https://img.shields.io/badge/TSQL-Top%200.6%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="PLpgSQL on CodersRank: top 2% worldwide (2026-11-24)" src="https://img.shields.io/badge/PLpgSQL-Top%202%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="TypeScript on CodersRank: top 4% worldwide (2026-11-24)" src="https://img.shields.io/badge/TypeScript-Top%204%25%20worldwide-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Next.js on CodersRank: top 4% (2026-11-24)" src="https://img.shields.io/badge/Next.js-Top%204%25-8B1E2D"></a>
+  <a href="https://profile.codersrank.io/user/axxess-triaxis/"><img alt="Python on CodersRank: top 6% worldwide (2026-11-24)" src="https://img.shields.io/badge/Python-Top%206%25%20worldwide-8B1E2D"></a>
 </p>
 
 <p>

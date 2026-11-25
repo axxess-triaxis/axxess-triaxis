@@ -2,14 +2,30 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "30 0 * * *" # daily, 06:00 IST
+    - cron: "0 17 * * *" # end of day, 22:30 IST
   workflow_dispatch:
 
 permissions:
   contents: write # commit the generated metrics.svg
 
 jobs:
+  activity:
+    # End of day, only on days the account was active: a push, merge or branch by somebody other than a
+    # bot in a public repository in the last 24 hours. Manual runs always go ahead, and so does a failed check.
+    runs-on: ubuntu-latest
+    outputs:
+      active: ${{ steps.check.outputs.active }}
+    steps:
+      - uses: actions/checkout@v6
+      - id: check
+        if: github.event_name == 'schedule'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/readme-activity.mjs active --owner "$GITHUB_REPOSITORY_OWNER" || echo "active=true" >> "$GITHUB_OUTPUT"
+
   github-metrics:
+    needs: activity
+    if: github.event_name != 'schedule' || needs.activity.outputs.active == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Metrics embed

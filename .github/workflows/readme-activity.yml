@@ -1,0 +1,38 @@
+name: Profile README
+
+on:
+  schedule:
+    - cron: "15 18 */2 * *" # every 2 days, 23:45 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit README.md
+
+concurrency: readme-activity
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+      - name: Test the script
+        run: node --test scripts/readme-activity.test.mjs
+      - name: Refresh the generated block
+        id: refresh
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          # Optional repository variable: titles matching this pattern are not shown.
+          README_EXCLUDE_TITLES: ${{ vars.README_EXCLUDE_TITLES }}
+        run: |
+          cp README.md "$RUNNER_TEMP/before.md"
+          node scripts/readme-activity.mjs profile --owner "$GITHUB_REPOSITORY_OWNER"
+      - name: Commit
+        if: steps.refresh.outputs.changed == 'true'
+        run: |
+          node scripts/readme-activity.mjs guard --before "$RUNNER_TEMP/before.md" --after README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update readme activity" README.md
+          git pull --rebase
+          git push

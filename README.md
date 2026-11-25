@@ -95,6 +95,27 @@ AXXESS are in its [CLAUDE.md](https://github.com/axxess-triaxis/AXXESSTRIAXIS/bl
 
 TypeScript · Python · Next.js · React · Supabase · AWS (Lambda, EventBridge, SAM, CDK, Bedrock) · Capacitor · Vercel
 
+<!-- readme-activity:start (generated; edits here are overwritten) -->
+## Recent work
+
+<sub>Generated 2026-11-25 from the public history of my repositories, last 14 days. Documentation, dependency and housekeeping changes are left out.</sub>
+
+| Repository | Date | Change |
+|---|---|---|
+| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-25 | [feat(rag): chunk full text, rank fusion and abstention, measured](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/575) |
+| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-25 | [Only organization admins can POST /api/rag/evaluation](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/576) |
+| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-25 | [Make the RAG release gate run real retrieval](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/574) |
+| [Omnidamus](https://github.com/axxess-triaxis/Omnidamus) | 2026-11-20 | [fix(start): grant lambda:InvokeFunction so the public /start URL is reachable](https://github.com/axxess-triaxis/Omnidamus/pull/9) |
+| [Omnidamus](https://github.com/axxess-triaxis/Omnidamus) | 2026-11-20 | [feat: org-scoped conversations and an AXXESS start endpoint](https://github.com/axxess-triaxis/Omnidamus/pull/8) |
+| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-20 | [feat(outbound): customer calls from the organization's own caller ID](https://github.com/axxess-triaxis/callismatic/pull/21) |
+| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-20 | [fix(triage): a buyer is always labelled lead](https://github.com/axxess-triaxis/callismatic/pull/18) |
+| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-13 | [feat(outbound): agent calls requested from AXXESS (off, no provider)](https://github.com/axxess-triaxis/callismatic/pull/15) |
+| [STILL](https://github.com/axxess-triaxis/STILL) | 2026-11-20 | [feat(axxess): send customer job results to the AXXESS stack results route](https://github.com/axxess-triaxis/STILL/pull/13) |
+| [STILL](https://github.com/axxess-triaxis/STILL) | 2026-11-13 | [feat(axxess): route call.completed.v1 to log\_agent\_call and create\_meeting](https://github.com/axxess-triaxis/STILL/pull/9) |
+| [port4lleo](https://github.com/axxess-triaxis/port4lleo) | 2026-11-12 | [Claude plugin: read-only fix bounties for linked accounts](https://github.com/axxess-triaxis/port4lleo/pull/16) |
+| [port4lleo](https://github.com/axxess-triaxis/port4lleo) | 2026-11-12 | [Claude plugin: link to a PORT4LLEO account (tokens, portfolio, resync)](https://github.com/axxess-triaxis/port4lleo/pull/15) |
+<!-- readme-activity:end -->
+
 ## GitHub activity
 
 ![GitHub metrics for axxess-triaxis](https://raw.githubusercontent.com/axxess-triaxis/axxess-triaxis/main/metrics.svg)

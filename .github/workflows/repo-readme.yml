@@ -1,0 +1,42 @@
+# Called by the other repositories: refreshes the generated block of the calling repository's README
+# when somebody other than a bot committed to its default branch in the last 8 days.
+name: Repository README
+
+on:
+  workflow_call:
+
+permissions:
+  contents: write # the caller grants this; commit README.md in the calling repository
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/checkout@v6
+        with:
+          repository: axxess-triaxis/axxess-triaxis
+          ref: main
+          path: .readme-tool
+          persist-credentials: false
+      - name: Test the script
+        run: node --test .readme-tool/scripts/readme-activity.test.mjs
+      - name: Refresh the generated block
+        id: refresh
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          README_EXCLUDE_TITLES: ${{ vars.README_EXCLUDE_TITLES }}
+        run: |
+          cp README.md "$RUNNER_TEMP/before.md"
+          # 8 days, not 7: a scheduled run can start late.
+          node .readme-tool/scripts/readme-activity.mjs repo --repo "$GITHUB_REPOSITORY" --active-days 8
+      - name: Commit
+        if: steps.refresh.outputs.changed == 'true'
+        run: |
+          node .readme-tool/scripts/readme-activity.mjs guard --before "$RUNNER_TEMP/before.md" --after README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update readme activity" README.md
+          git pull --rebase
+          git push

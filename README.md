@@ -98,24 +98,25 @@ TypeScript · Python · Next.js · React · Supabase · AWS (Lambda, EventBridge
 <!-- readme-activity:start (generated; edits here are overwritten) -->
 ## Recent work
 
-<sub>Generated 2026-11-25 from the public history of my repositories, last 14 days. Documentation, dependency and housekeeping changes are left out.</sub>
+<sub>Generated 2026-11-27 from the public history of my repositories, last 14 days. Documentation, dependency and housekeeping changes are left out.</sub>
 
 | Repository | Date | Change |
 |---|---|---|
-| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-25 | [feat: trace the app's AI in LangSmith, developer machine only](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/584) |
-| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-25 | [fix(ai): build the AI routing context on the server](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/580) |
-| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-25 | [fix(copilot): validate confirmed actions on the server](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/577) |
+| [asura](https://github.com/axxess-triaxis/asura) | 2026-11-27 | [Add opt-in Ollama Cloud integration](https://github.com/axxess-triaxis/asura/pull/3) |
+| [asura](https://github.com/axxess-triaxis/asura) | 2026-11-27 | [Add optional Kaggle, tracking, and evaluation integrations](https://github.com/axxess-triaxis/asura/pull/1) |
+| [asura](https://github.com/axxess-triaxis/asura) | 2026-11-27 | [Add MIT license](https://github.com/axxess-triaxis/asura/pull/2) |
+| [Linksmarty](https://github.com/axxess-triaxis/Linksmarty) | 2026-11-27 | [Initial commit](https://github.com/axxess-triaxis/Linksmarty/commit/1fae1d6402fa089753468ebc4aa9ecf2a8d2d0de) |
+| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-27 | [feat(rag): Apache OpenNLP 3.0 enrichment for RAG ingestion (flag off)](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/591) |
+| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-26 | [fix(lead-sourcing): give gpt-oss room to reason before it answers (run ad073faf)](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/596) |
+| [AXXESSTRIAXIS](https://github.com/axxess-triaxis/AXXESSTRIAXIS) | 2026-11-26 | [MCP: idempotent tools/call, get\_pending\_tool\_call, 202 for notifications](https://github.com/axxess-triaxis/AXXESSTRIAXIS/pull/579) |
+| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-25 | [Weekly README refresh](https://github.com/axxess-triaxis/callismatic/pull/22) |
+| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-20 | [feat(outbound): customer calls from the organization's own caller ID](https://github.com/axxess-triaxis/callismatic/pull/21) |
+| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-20 | [fix(triage): a buyer is always labelled lead](https://github.com/axxess-triaxis/callismatic/pull/18) |
 | [Omnidamus](https://github.com/axxess-triaxis/Omnidamus) | 2026-11-25 | [fix: one receipt per set of details, and no customer data in error logs](https://github.com/axxess-triaxis/Omnidamus/pull/15) |
 | [Omnidamus](https://github.com/axxess-triaxis/Omnidamus) | 2026-11-25 | [fix: live defects and customer identifiers in logs](https://github.com/axxess-triaxis/Omnidamus/pull/12) |
 | [Omnidamus](https://github.com/axxess-triaxis/Omnidamus) | 2026-11-25 | [Weekly README refresh](https://github.com/axxess-triaxis/Omnidamus/pull/11) |
 | [STILL](https://github.com/axxess-triaxis/STILL) | 2026-11-25 | [Weekly README refresh](https://github.com/axxess-triaxis/STILL/pull/14) |
 | [STILL](https://github.com/axxess-triaxis/STILL) | 2026-11-20 | [feat(axxess): send customer job results to the AXXESS stack results route](https://github.com/axxess-triaxis/STILL/pull/13) |
-| [STILL](https://github.com/axxess-triaxis/STILL) | 2026-11-13 | [feat(axxess): route call.completed.v1 to log\_agent\_call and create\_meeting](https://github.com/axxess-triaxis/STILL/pull/9) |
-| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-25 | [Weekly README refresh](https://github.com/axxess-triaxis/callismatic/pull/22) |
-| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-20 | [feat(outbound): customer calls from the organization's own caller ID](https://github.com/axxess-triaxis/callismatic/pull/21) |
-| [callismatic](https://github.com/axxess-triaxis/callismatic) | 2026-11-20 | [fix(triage): a buyer is always labelled lead](https://github.com/axxess-triaxis/callismatic/pull/18) |
-| [port4lleo](https://github.com/axxess-triaxis/port4lleo) | 2026-11-12 | [Claude plugin: read-only fix bounties for linked accounts](https://github.com/axxess-triaxis/port4lleo/pull/16) |
-| [port4lleo](https://github.com/axxess-triaxis/port4lleo) | 2026-11-12 | [Claude plugin: link to a PORT4LLEO account (tokens, portfolio, resync)](https://github.com/axxess-triaxis/port4lleo/pull/15) |
 <!-- readme-activity:end -->
 
 ## GitHub activity
